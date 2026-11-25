@@ -13,7 +13,9 @@
 
 ## Project Overview
 
-Author: Denise Case, Kim Hummel
+Author: Kim Hummel
+
+Contributor: Built off of example project created by Denise Case.
 
 Date: 2026 November
 
